@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "329917335533",
+    "project_id": "vitalpatientdata",
+    "storage_bucket": "vitalpatientdata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329917335533:android:a2ad2d49a5ae5039d4c9e4",
+        "android_client_info": {
+          "package_name": "com.example.android.projecthtf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329917335533-tme79084jig0jf0amnke1523jd7u3u3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRUfkvLw_cYZXmfE-NbYmHG6L2Rfv9yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329917335533-tme79084jig0jf0amnke1523jd7u3u3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
