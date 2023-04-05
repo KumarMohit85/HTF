@@ -1,5 +1,6 @@
+
 # HTF3.0
-![alt text](https://github.com/KumarMohit85/images/blob/main/logo_cold.png)
+
 
 # IoT based cold storage monitoring and management system
 ### What and for whom 
@@ -14,7 +15,7 @@ This website also helps the farmers who want to avail the service of cold storag
 
  iii) Firebase
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
 
 
 ## Contents
@@ -40,10 +41,17 @@ This website also helps the farmers who want to avail the service of cold storag
  e)Website- Webpages are designed and linked together to show different data from firebase database in an interactive way.
 
 ### Working
-DHT and LM35 measure the temperatures  and humidity between coolant and vegetable and compare it for checking the preservative mode.
+DHT and LM35 measure the temperatures  and humidity between coolant and vegetable and compare them for checking the preservative mode.
 
-ESP32 connect with internet and send real time temperature , humidity, preservative mode, security status to firebase.
+ESP32 connected with internet  send real time temperature , humidity, preservative mode and security status to firebase.
 
 Device also contain IR sensor , PIR sensor which are able to detect human motion in chamber and status of door .
 
 Device also send the security alert or update on owner whatsapp.
+
+Website contains homepage showing details of various services provided by the cold-storage enterprise and a link to  get authenticated as owner and move to owner's page.
+
+Owner's page shows chamberwise data of different parameters.
+
+Homepage contains another link too to sign up as user and request to cold storage owner for quotation of the type of item they want to store.
+
