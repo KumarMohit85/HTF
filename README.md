@@ -1,5 +1,4 @@
 
-# HTF3.0
 
 
 # IoT based cold storage monitoring and management system
